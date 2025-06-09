@@ -9,7 +9,7 @@ An elegant and efficient **React-based travel checklist app** designed to simpli
 - 📝 **Dynamic Item Entry** – Add any item you need to pack, from passports to pajamas.
 - 🔢 **Quantity Selector** – Choose how many of each item to pack using a handy dropdown.
 - ✅ **Check-off System** – Mark items as packed and stay in control of your travel progress.
-- 📊 **Packing Progress Indicator** – A live percentage bar updates as you check items, showing how close you are to being fully packed.
+- 📊 **Packing Progress Indicator** – A live percentage bar updates as you check items.
 - 🧼 **Clean & Minimal Design** – Prioritizes ease of use and clarity, especially for on-the-go packing.
 - 🚀 **Deployed with Vercel** – Fast and reliable deployment ensures instant access from anywhere.
 
